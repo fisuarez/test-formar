@@ -1,2 +1,2 @@
 
-- [] Agregar validaciones a la pipeline
+[x] Agregar validaciones a la pipeline
